@@ -1,6 +1,11 @@
-var keywords=[{w:"Oxygen",p:["p0"]},{w:"XML",p:["p0","p2"]},{w:"Editor",p:["p0"]},{w:"19",p:["p0"]},{w:"\u53C2\u6570",p:["p0"]},{w:"XML\u662F\u4EC0\u4E48",p:["p1"]},{w:"\u5982\u4F55\u5B89\u88C5Oxygen",p:["p2"]},{w:"Editor\uFF1F",p:["p2"]},{w:"\u6CE8\u518C\u7801\u65E0\u6548\u600E\u4E48\u529E\uFF1F",p:["p3"]}];
+var keywords=[{w:"DITA\u7ED3\u6784\u5316\u5199\u4F5C\u57FA\u672C\u6A21\u5757\u6709\u54EA\u4E9B\uFF1F",p:["p0"]},{w:"Oxygen",p:["p1","p2"]},{w:"XML",p:["p1","p2","p5","p6"]},{w:"Editor",p:["p1"]},{w:"19",p:["p1"]},{w:"\u53C2\u6570",p:["p1"]},{w:"Editor\u662F\u4EC0\u4E48\uFF1F",p:["p2"]},{w:"XML\u662F\u4EC0\u4E48\uFF1F",p:["p3"]},{w:"XML\u662F\u4EC0\u4E48",p:["p4"]},{w:"\u5982\u4F55\u5229\u7528Oxygen",p:["p5"]},{w:"Editor\u8FDB\u884C\u5404\u4E2A\u6A21\u5757\u7684\u64B0\u5199\uFF1F",p:["p5"]},{w:"\u5982\u4F55\u5B89\u88C5Oxygen",p:["p6"]},{w:"Editor\uFF1F",p:["p6"]},{w:"\u5982\u4F55\u5C06\u751F\u6210\u7684WebHelp\u901A\u8FC7\u4E0A\u4F20GitHub\u7684\u65B9\u5F0F\u751F\u6210\u53EF\u4F9B\u7528\u6237\u8BBF\u95EE\u7684\u7F51\u5740\u94FE\u63A5\uFF1F",p:["p7"]},{w:"\u6CE8\u518C\u79D8\u94A5\u65E0\u6548\u600E\u4E48\u529E\uFF1F",p:["p8"]}];
 var ph={};
-ph["p0"]=[0, 1, 2, 3, 4];
-ph["p1"]=[5];
-ph["p2"]=[6, 1, 7];
-ph["p3"]=[8];
+ph["p0"]=[0];
+ph["p1"]=[1, 2, 3, 4, 5];
+ph["p2"]=[1, 2, 6];
+ph["p3"]=[7];
+ph["p4"]=[8];
+ph["p5"]=[9, 2, 10];
+ph["p6"]=[11, 2, 12];
+ph["p7"]=[13];
+ph["p8"]=[14];

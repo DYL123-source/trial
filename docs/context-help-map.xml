@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="oxygen_xml_editor_19___"
-               path="Oxygen%20XML%20Editor%2019%20参数.html"/>
-   <appContext helpID="xml___" path="XML是什么？_.html"/>
    <appContext helpID="oxygen_xml_editor_" path="如何安装Oxygen%20XML%20Editor？.html"/>
+   <appContext helpID="trouble_llh_qbq_bwb" path="注册码无效怎么办？.html"/>
+   <appContext helpID="dita_____________" path="DITA结构化写作基本模块有哪些？.html"/>
+   <appContext helpID="" path="MTI学生如何零基础入门Oxygen%20XML教程（学生版）.html"/>
+   <appContext helpID="Untitled" path="Oxygen%20XML%20Editor是什么？.html"/>
+   <appContext helpID="xml___" path="XML是什么？.html"/>
+   <appContext helpID="oxygen_xml_editor_" path="如何安装Oxygen%20XML%20Editor？.html"/>
+   <appContext helpID="webhelp____github_________________"
+               path="如何将生成的WebHelp通过上传GitHub的方式生成可供用户访问的网址链接？.html"/>
+   <appContext helpID="oxygen_xml_editor__________"
+               path="如何利用Oxygen%20XML%20Editor进行各个模块的撰写？.html"/>
    <appContext helpID="trouble_llh_qbq_bwb" path="注册码无效怎么办？.html"/>
 </map>
